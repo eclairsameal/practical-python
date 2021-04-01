@@ -1,5 +1,7 @@
 # Welcome!
 
+[中文](https://github.com/codists/practical-python-zh/blob/main/Notes/00_Setup.md)
+
 When I first learned Python nearly 25 years ago, I was immediately
 struck by how I could productively apply it to all sorts of messy work
 projects. Fast-forward a decade and I found myself teaching others the
